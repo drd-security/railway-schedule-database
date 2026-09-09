@@ -1,0 +1,25 @@
+:root{
+    --prussian-blue: #003049ff;
+    --fire-engine-red: #d62828ff;
+    --orange-wheel: #f77f00ff;
+    --xanthous: #fcbf49ff;
+    --vanilla: #eae2b7ff;
+    --black: #0e0e0eff;
+    --light: #0e0e0e55;
+    --white: #ffffff;
+}
+
+*{
+    position: relative;
+    font-family: Roboto;
+    font-weight: 400;
+}
+
+html, body{
+    margin: 0px;
+    padding: 0px;
+}
+
+body{
+    background-color: var(--vanilla);
+}
